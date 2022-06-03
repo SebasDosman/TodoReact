@@ -7,9 +7,9 @@ import { CreateTodoButton } from "./Components/CreateTodoButton.js";
 //import "./Todos.css";
 
 const todos = [
-  { text: "Tarea 1", completed: false },
-  { text: "Tarea 2", completed: false },
-  { text: "Tarea 3", completed: false },
+  { text: "Tarea 1", completed: true },
+  { text: "Tarea 2", completed: true },
+  { text: "Tarea 3", completed: true },
 ];
 
 function Todos() {
