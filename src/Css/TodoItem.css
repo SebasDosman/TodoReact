@@ -32,12 +32,16 @@
   /* background-color: #CCC; */
 }
 
+.TodoItem {
+  border-radius: 8px;
+}
+
 .Icon-check {
   position: absolute;
   left: 12px;
 }
 
-.Icon-check--active {
+.Icon-check:hover {
   color: #4caf50;
 }
 

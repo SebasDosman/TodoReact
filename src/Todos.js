@@ -16,7 +16,7 @@ function Todos() {
   return (
     <React.Fragment>
       <TodoCounter />
-      <br></br>
+      <br/>
       <TodoSearch />
 
       <TodoList>
